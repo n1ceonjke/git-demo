@@ -8,4 +8,7 @@ In a pretty string
 _____________________________________________________
 
 
-New branch testing
+New branch testingc
+
+
+Second commt in the feature branch
